@@ -12,7 +12,7 @@ Runs the app in the development mode.\fds
 Open [http://localhost:3000](http://localhost:3000) toview it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You may also see any lint errors in the console.xdj
 
 ### `npm testtt`
 
