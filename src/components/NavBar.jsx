@@ -8,7 +8,8 @@ const NavBar = () => {
           <h1 className='text-5xl font-signature ml-2'>Rugved</h1>  
         </div>
     <ul className='flex'>
-        <li className='px-4 cursor-pointer capitalize font-medium text-gray-500 hover:scale-105 duration-150 mr-20'>Home</li>
+        <li className='px-4 cursor-pointer capitalize font-medium text-gray-500 hover:scale-105 duration-150'>Home</li>
+        <li className=''>Home</li>
         <li className=''>Home</li>
 
     </ul>
