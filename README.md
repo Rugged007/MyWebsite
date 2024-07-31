@@ -8,7 +8,7 @@ In the project directory, you can run:
 trg
 ### `npm start`uy
 
-Runs the app in the development mode.\fds
+Runs the app in the development mode.\fdsgshs
 Open [http://localhost:3000](http://localhost:3000) toview it in your  d browser.
 
 The page will reload when you make changes.\
