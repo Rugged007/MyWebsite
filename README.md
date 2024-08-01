@@ -11,7 +11,7 @@ trg
 Runs the app in the development mode.\fdsgshs
 Open [http://localhost:3000](http://localhost:3000) toview it in your  d browser.
 
-The page will reload when you make changes.\
+The page will reload when you make changes.\fd
 You may also see any lint errors in the console.xdj
 
 ### `npm testtt`
