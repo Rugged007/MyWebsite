@@ -9,7 +9,7 @@ trg
 ### `npm start`uy
 
 Runs the app in the development mode.\fdsgshs
-Open [http://localhost:3000](http://localhost:3000) toview it in your  d browser.
+Open [http://localhost:3000](http://localhost:3000) toview it in your  d browser.dfd
 
 The page will reload when you make changes.\fddas
 You may also see any lint errors in the consyfhole.xdj
