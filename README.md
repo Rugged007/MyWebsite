@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 trg
-### `npm start`uydgf
+### `npm start`uydgfxc
 
 Runs the app in the development mode.\fdsgshs
 Open [http://localhost:3000](http://localhost:3000) toview it in your  d browser.dfd
