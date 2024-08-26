@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 xcnv.
-In the project directory, you can run:fg
+In the project directory, you can run:fcccg
 trg
 ### `npm start`uydgfxc
 
