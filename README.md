@@ -3,9 +3,7 @@ stvh# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-xcnv.
-In the project directory, you can run:fcccg
-trg
+In the project directory, you can run:f
 ### `npm start`uydgfxc
 
 Runs the app in the development mode.\fdsgshs
