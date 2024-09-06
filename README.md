@@ -16,7 +16,7 @@ You may alsodfd see any lint errors in the consyfhole.xdjd
 Launches the test runner in the interactive watch mode.\vxc
 See the section about [runningdhsh tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`sdj
+### `npm run build`s
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.nb
