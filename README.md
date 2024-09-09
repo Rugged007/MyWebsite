@@ -10,7 +10,7 @@ Runs the app in the development mode.\fdsgshs
 Open [http://localhost:3000](http://localhost:3000) toview it in your  d browser.dfd
 
 The page will reload when you make changes.\fddasfd
-You may alsodfd see any lint errors in the consyfhole.xdjd
+You may alsodfd see any lint errors in the consyfhole.xdjdsdfsd
 ### `npm commit`
 
 Launches the test runner in the interactive watch mode.\vxc
