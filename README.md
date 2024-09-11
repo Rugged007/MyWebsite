@@ -19,7 +19,7 @@ See the section about [runningdhsh tests](https://facebook.github.io/create-reac
 ### `npm run build`s
 
 Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.nb
+It correctly bundles React in production mode and optimizes the build fords the best performance.nb
 
 The build is minified and the filenames include the jkhashdses.\
 Your app is ready to be deployed!fg
