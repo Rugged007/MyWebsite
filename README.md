@@ -7,7 +7,7 @@ In the project directory, you can run:f
 ### `npm start`uydgfxc
 
 Runs the app in the development mode.\fdsgshs
-Open [http://localhost:3000](http://localhost:3000) toview it in your  d browser.dfd
+Open [http://localhost:3000](http://localhost:3000) toview it in your  d browser.dfdsdfljn
 
 The page will reload when you make changes.\fddasfd
 You may alsodfd see any lint errors in the consyfhole.xdjdsdfsd
