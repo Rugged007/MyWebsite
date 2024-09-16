@@ -14,7 +14,7 @@ You may alsodfd see any lint errors in the consyfhole.xdjdsdfsd
 ### `npm commit`
 
 Launches the test runner in the interactive watch mode.\vxc
-See the section about [runningdhsh tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [runningdhsh tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.k;in
 
 ### `npm run build`s
 
