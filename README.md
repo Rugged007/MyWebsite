@@ -3,7 +3,7 @@ dddstvh# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-In the project directory, you can run:f
+In the project directory, you can run:fd]
 ### `npm start`uydgfxc
 
 Runs the app in the development mode.\fdsgshs
