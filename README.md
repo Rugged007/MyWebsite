@@ -11,7 +11,7 @@ Open [http://localhost:3000](http://localhost:3000) toview it in your  d browser
 
 The page will reload when you make changes.\fddasfd
 You may alsodfd see any lint errors in the consyfhole.xdjdsdfsd
-### `npm commit`ds
+### `npm commit`dsxc
 xc
 Launches the test runner in the interactive watch mode.\vxc
 See the section about [runningdhsh tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.k;in
