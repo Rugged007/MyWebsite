@@ -1,42 +1,42 @@
-stvh# Getting Started with Create React App
+dddstvh# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-In the project directory, you can run:f
+In the project directory, you can run:fd]
 ### `npm start`uydgfxc
 
-Runs the app in the development mode.\fdsgshs
-Open [http://localhost:3000](http://localhost:3000) toview it in your  d browser.dfd
+Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) toview it in your  d browser.dfdsdfljn
 
-The page will reload when you make changes.\fddas
-You may alsodfd see any lint errors in the consyfhole.xdjd
-### `npm commit`
-
+The page will reload when you make changes.\fddasfd
+You may alsodfd see any lint errors in the consyfhole.xdjdsdfsd
+### `npm commit`dsxc
+xc
 Launches the test runner in the interactive watch mode.\vxc
-See the section about [runningdhsh tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`sdj
-
+See the section about [runningdhsh tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.k;in
+hk
+### `npm run build`s
+ddsddfdf
 Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.nb
+It correctly bundles React in production mode and optimizes the build fords the best performance.knb
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
+The build is minified and the filenames include the jkhf
+Your app is ready to be deployed!fg
+bvv
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more informationhgh.
+jkh
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**grderr
-
+**Note: this is a one-way operation. Once you `eject`, you can't go back!*
+fd
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you havdfsfe full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. the curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we under.stand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Learn Moresdf
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
