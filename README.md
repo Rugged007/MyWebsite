@@ -22,7 +22,7 @@ It correctly bundles React in production mode and optimizes the build fords the 
 
 The build is minified and the filenames include the jkhf
 Your app is ready to be deployed!fg
-bvv
+bvvkuv
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more informationhgh.
 jkh
 ### `npm run eject`
