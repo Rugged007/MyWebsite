@@ -21,7 +21,7 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build fords the best performance.knb
 
 The build is minified and the filenames include the jkhf
-Your app is ready to be deployed!fg
+Your app is ready to be deployed!fgd
 bvvkuv
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more informationhgh.
 jkh
