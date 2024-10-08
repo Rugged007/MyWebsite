@@ -11,21 +11,26 @@ const Portfoili = () => {
     {
       id: 1,
       src: arrayDestruct,
+      href:"https://github.com/Rugged007",
     },
-    { 
+    {
       id: 2,
       src: reactparallax,
     },
     {
-      id: 1,
+      id: 3,
+      src: navbar,
+    },
+    {
+      id: 4,
       src: reactSmooth,
     },
     {
-      id: 1,
+      id: 5,
       src: installNode,
     },
     {
-      id: 1,
+      id: 6,
       src: reactWeather,
     },
   ];
@@ -40,9 +45,8 @@ const Portfoili = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500 ">
             Portfoili
           </p>
-          <p>Check out some of my work right here </p>
+          <p className="py-6">Check out some of my work right here </p>
         </div>
-
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
           {portfolio.map(({ id, src }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">

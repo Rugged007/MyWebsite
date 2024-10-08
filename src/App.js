@@ -3,6 +3,7 @@ import Home from "./components/Home";
 import NavBar from "./components/NavBar";
 import Portfoili from "./components/Portfoili";
 import SocialLinks from "./components/SocialLinks";
+import Experiences from "./components/Experiences";
 
 
 export default function App() {
@@ -13,6 +14,7 @@ export default function App() {
       <About /> 
       <Portfoili />
       <SocialLinks />
+      <Experiences />
     </div>
   );
 }
