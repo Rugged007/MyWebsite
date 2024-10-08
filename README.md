@@ -10,24 +10,24 @@ Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) toview it in your  d browser.dfdsdfljn
 
 The page will reload when you make changes.\fddasfd
-You may alsodfd see any lint errors in the consyfhole.xdjdsdfsd
+You may alsodfd see any lint errors in the consyfhole.xdjdsdfsdsdsd f
 ### `npm commit`dsxc
 xc
-Launches the test runner in the interactive watch mode.\vxc
+Launches the test runner in the interactive watch mode.\vxcnmnm
 See the section about [runningdhsh tests](https://facebook.github.io/create-react-app/docs/running-tests)
 ### `npm run build`
-ddsddfdf
+ddsddfdfsd
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build fords the best performance.knb
 
 The build is minified and the filenames include the jkhf
-Your app is ready to be deployed!fg
+Your app is ready to be deployed!fgd
 bvvkuv
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more informationhgh.
 jkh
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!*
+**Note: this is a one-way operation. Once you `eject`, you can'ssst go back!*
 fd
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
