@@ -12,7 +12,7 @@ const Portfoili = () => {
       id: 1,
       src: arrayDestruct,
     },
-    {
+    { 
       id: 2,
       src: reactparallax,
     },
@@ -43,9 +43,9 @@ const Portfoili = () => {
           <p>Check out some of my work right here </p>
         </div>
 
-        {portfolio.map(({ id, src }) => (
-          <div key={id} className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-8">
-            <div className="shadow-md shadow-gray-600 rounded-lg">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
+          {portfolio.map(({ id, src }) => (
+            <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
                 src={src}
                 alt=""
@@ -60,8 +60,8 @@ const Portfoili = () => {
                 </button>
               </div>
             </div>
-          </div>
-        ))} 
+          ))}
+        </div>
       </div>
     </div>
   );
