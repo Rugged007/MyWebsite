@@ -1,5 +1,5 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
+import ToDoApp from "../assets/portfolio/ToDoApp.png";
 import installNode from "../assets/portfolio/installNode.jpg";
 import navbar from "../assets/portfolio/navbar.jpg";
 import reactparallax from "../assets/portfolio/reactparallax.jpg";
@@ -10,8 +10,8 @@ const Portfoili = () => {
   const portfolio = [
     {
       id: 1,
-      src: arrayDestruct,
-      href:"https://github.com/Rugged007",
+      src: ToDoApp,
+      href:"https://github.com/Rugged007/to-do.git",
     },
     {
       id: 2,
@@ -21,18 +21,18 @@ const Portfoili = () => {
       id: 3,
       src: navbar,
     },
-    {
-      id: 4,
-      src: reactSmooth,
-    },
-    {
-      id: 5,
-      src: installNode,
-    },
-    {
-      id: 6,
-      src: reactWeather,
-    },
+    // {
+    //   id: 4,
+    //   src: reactSmooth,
+    // },
+    // {
+    //   id: 5,
+    //   src: installNode,
+    // },
+    // {
+    //   id: 6,
+    //   src: reactWeather,
+    // },
   ];
 
   return (
@@ -48,7 +48,7 @@ const Portfoili = () => {
           <p className="py-6">Check out some of my work right here </p>
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
-          {portfolio.map(({ id, src }) => (
+          {portfolio.map(({ id, src,href }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
                 src={src}
@@ -56,12 +56,20 @@ const Portfoili = () => {
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+                {/* <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Demo
-                </button>
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+                </button> */}
+                {/* <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105" >
                   Code
-                </button>
+                </button> */}
+                <a
+                  href={href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 text-center"
+                >
+                  code
+                </a>
               </div>
             </div>
           ))}
