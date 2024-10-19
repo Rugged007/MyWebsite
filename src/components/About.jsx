@@ -9,11 +9,11 @@ const About = () => {
             </p>
           </div>
         <p className="text-xl mt-20"> 
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        I am a passionate and dedicated Computer Science student with a strong foundation in software development, front-end technologies, and Android app development. Over the course of my academic journey, I have gained hands-on experience through various projects, including a Hotel Booking Website developed using HTML, CSS, and JavaScript, and a To-do-list web app built using Python Flask, Jinja, and SQLAlchemy.I am currently working on an Online Planters Buying System in Android Studio, integrating a wide range of features to enhance user experience
         </p>
         <br />
         <p className="text-xl">
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        I am proficient in HTML, CSS, JavaScript, Python (Flask), SQLAlchemy, Android Studio, and project management tools. My diverse experience across multiple domains, including software development, research, and entrepreneurship, has helped me develop a strong problem-solving mindset and adaptability, making me eager to take on new challenges and grow in my career..
         </p>
     </div>
   </div>

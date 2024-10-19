@@ -1,14 +1,14 @@
 import React from "react";
 import ToDoApp from "../assets/portfolio/ToDoApp.png";
 // import navbar from "../assets/portfolio/navbar.jpg";
-import heroImage1 from "../assets/portfolio/heroImage1.jpg";
+// import heroImage1 from "../assets/portfolio/heroImage1.jpg";
 // import reactparallax from "../assets/portfolio/reactparallax.jpg";
 import MobileApplication from "../assets/portfolio/MobileApplication.png"
 // import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 // import installNode from "../assets/portfolio/installNode.jpg";
 // import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
-const Portfoili = () => {
+const Portfolio = () => {
   const portfolio = [
     {
       id: 1,
@@ -20,10 +20,10 @@ const Portfoili = () => {
       src: MobileApplication,
       href:"https://github.com/Rugged007/PlantikaDeck.git",
     },
-    {
-      id: 3,
-      src: heroImage1,
-    },
+    // {
+    //   id: 3,
+    //   src: heroImage1,
+    // },
     // {
     //   id: 4,
     //   src: reactSmooth,
@@ -40,7 +40,7 @@ const Portfoili = () => {
 
   return (
     <div
-      name="Portfoili"
+      name="Portfolio"
       className="bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen"
     >
       <div className=" max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
@@ -82,4 +82,4 @@ const Portfoili = () => {
   );
 };
 
-export default Portfoili;
+export default Portfolio;
