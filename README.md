@@ -13,7 +13,7 @@ The page will reload when you make changes.\
 You may alsodfd see any lint errors in the consyfhole.
 ### `npm commit`dsxc
 xc
-Launches the test runner in the interactive watch mode.\vxcnmnm
+Launches the test runner in the interactive watch mode.\
 See the section about [runningdhsh tests](https://facebook.github.io/create-react-app/docs/running-tests)
 ### `npm run build`
 ddsddfdfsd
