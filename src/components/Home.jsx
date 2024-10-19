@@ -1,6 +1,5 @@
 import React from "react";
 import heroImage from "../assets/portfolio/heroImage.jpg";
-import { IoMdArrowRoundForward } from "react-icons/io";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 const Home = () => {
